@@ -1,6 +1,6 @@
 CC = gcc
 
-CFLAGS = -Wall -g -std=c11
+CFLAGS = -Wall -g -std=c2x
 
 OBJDIR = out
 
